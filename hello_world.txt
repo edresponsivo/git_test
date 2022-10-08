@@ -1,5 +1,3 @@
 Hello world text sentence on the this file.
 
 Added another line to test the commit from VS code.
-
-Another line.
